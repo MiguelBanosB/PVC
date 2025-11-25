@@ -1,0 +1,2 @@
+Modelo,Accuracy,Precision,Recall,Dice (F1),Jaccard
+RF1_baseline_desbalanceado,0.9705162222222222,0.0,0.0,0.0,0.0
